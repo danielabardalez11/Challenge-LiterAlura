@@ -1,10 +1,10 @@
 # Challenge-LiterAlura
-Literalura
+# Literalura
 
-Descripción:
+# Descripción:
 Aplicación de consola en Java 21 con Spring Boot que permite buscar, guardar y gestionar libros y autores usando la API pública Gutendex, almacenando los datos en PostgreSQL.
 
-Tecnologías:
+# Tecnologías:
 
 Java 21
 
@@ -20,7 +20,7 @@ Jackson Databind 2.20.1
 
 API Gutendex
 
-Funcionalidades:
+# Funcionalidades:
 
 Agregar libros buscándolos en la API.
 
@@ -36,11 +36,11 @@ Ver el Top 10 de libros más descargados.
 
 Salir de la aplicación.
 
-Uso:
+# Uso:
 
 Configurar PostgreSQL y crear la base de datos literalura.
 
-Configurar variables de entorno para credenciales (DB_HOST, DB_USER, DB_PASSWORD).
+Configurar variables de entorno para credenciales .
 
 Ejecutar la aplicación con Maven.
 
